@@ -2,8 +2,6 @@
 
 A always-on-top Tamagotchi desktop pet built with Electron + React. Sits in the corner of your screen while you work and needs your attention to stay alive.
 
-![Widget preview — 372×237px desktop widget showing the pet and stat bars]
-
 ---
 
 ## Running in development
