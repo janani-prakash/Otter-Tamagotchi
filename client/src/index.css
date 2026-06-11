@@ -137,8 +137,6 @@ body {
   background-position: center;
 }
 
-.screen.day   { background-image: url('/sprites/day.png');   }
-.screen.night { background-image: url('/sprites/night.png'); }
 
 .pet-sprite {
   width: 237px;
